@@ -21,7 +21,7 @@ repository               : " sarahrossi096/sarahrossi.github.io/"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "/assets/foto_github_per_sito.jpg"
+  avatar           : "/images/profile.png"
   name             : "Sarah Rossi"
   pronouns         : # example: "she/her"  
   bio              : "I am a PhD Student at IUSS Pavia, Italy. I am working on the syntax of imperatives and negation in the framework of Generative Grammar."
