@@ -21,7 +21,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "images/foto github.jpg"
   name             : "Sarah Rossi"
   pronouns         : # example: "she/her"  
   bio              : "I am a PhD Student at IUSS Pavia, Italy. I am working on the syntax of imperatives and negation in the framework of Generative Grammar."
@@ -36,7 +36,6 @@ author:
   impactstory      : # URL
   orcid            : "https://orcid.org/0000-0003-2691-0662"
   semantic         : # URL
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   researchgate     : # URL
 
   # Repositories and software development
