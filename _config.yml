@@ -21,7 +21,7 @@ repository               : " sarahrossi096/sarahrossi.github.io/"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "images/foto github.jpg"
+  avatar           : "images/foto-github.jpg"
   name             : "Sarah Rossi"
   pronouns         : # example: "she/her"  
   bio              : "I am a PhD Student at IUSS Pavia, Italy. I am working on the syntax of imperatives and negation in the framework of Generative Grammar."
@@ -47,7 +47,7 @@ author:
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
   # Social media
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
+  bluesky          :  # Replace this with you Bluesky username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
